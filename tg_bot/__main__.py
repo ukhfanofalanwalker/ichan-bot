@@ -22,7 +22,7 @@ I am an Anime themed group management bot.
 
 You can find the list of available commands with /help.
 
-[i chan Lover](https://t.me/mad_noob) 
+[ My girlfriend !](https://t.me/mad_noob) 
 
 The support group chat is at @madassociation
 """
