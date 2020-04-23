@@ -1,4 +1,4 @@
-![Enterprise](https://i.imgur.com/IYqzviU.jpg)
+![Enterprise](https://telegra.ph/file/e7d2a1992562ef7f8676b.jpg)
 # Kigyō bot
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/04423a6d18ab43d396ab738fca5ba804)](https://www.codacy.com/manual/Dank-del/EnterpriseAL?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Dank-del/EnterpriseAL&amp;utm_campaign=Badge_Grade)
