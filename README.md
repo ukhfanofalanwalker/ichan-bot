@@ -12,7 +12,7 @@ Originally a marie fork - Kigyō has evolved further and was built to be more us
 
 Can be found on telegram as [ichan](https://t.me/i_chan_bot).
 
-The Support group can be reached out to at [Eagle Union](https://t.me/YorktownEagleUnion), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Mad Association](https://t.me/madassociation), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
  
 
