@@ -22,19 +22,19 @@ I am an Anime themed group management bot.
 
 You can find the list of available commands with /help.
 
-[ My girlfriend !](https://t.me/mad_noob) 
+[ My girlfriend !](https://t.me/urmadbaby_hero) 
 
-The support group chat is at @madassociation
+The support group chat is at @ProcessingBsdk
 """
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a part of Mad Association.
+I'm a part of Processing Bsdk.
 
 Have a look at the following for an idea of some of \
 the things I can help you with.
 
-I'm managed by [dank_as_fuck](https://t.me/mad_noob)
+I'm managed by [urmadbaby_hero](https://t.me/urmadbaby_hero)
 no one goona help you!!!
 
 
