@@ -17,45 +17,34 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi {}, my name is {}! 
-I am an Anime themed group management bot.
-
-You can find the list of available commands with /help.
-
-[ My girlfriend !](https://t.me/Baby_xD)
-
-The support group chat is at @ProcessingBsdk
+*Hey* *There!* *I'm* *Rashmika* *Mandanna* .
+*I'm* *A* *Group* *Management* *Bot*, *Made* *With* *Love* *And* *Managed* *By* [This Awesome Person](https://t.me/Unknown_Hacker_X) . 
+*If* *You* *Need* *Any* *Support* *Or* *Any* *Issues* .. *Please* *Join* [Rashmika Support](https://t.me/Sabrina_RoBotChat) . 
+*Hit* /help *To* *Know* *More* *About* *My* *Full* *Potential* *Use!*
 """
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
-I'm a part of Processing Bsdk.
+Hey There! My Name Is *{}*.
+I'm A Modular Group Management Bot With A Few Fun Extras!
+Have A Look At The Following For An Idea Of Some Of The Things I Can Help You... 
 
-Have a look at the following for an idea of some of \
-the things I can help you with.
+I'm Managed By [Unknown Hacker X](https://t.me/Unknown_Hacker_X). 
 
-I'm managed by [Baby_xD](https://t.me/Baby_xD)
-no one goona help you!!!
+See The Following *Main* *Commands* : 
 
+ ➡ /start: start the bot
+ ➡ /help: PM's you this message.
+ ➡ /help <module name>: PM's you info about that module.
+ ➡ /donate: information about how to donate!
+ ➡ /settings:
+ ➡ in PM: will send you your settings for all supported modules.
+ ➡ in a group: will redirect you to pm, with all that chat's settings.
 
-*Main* commands available:
- - /start: start the bot
- - /help: PM's you this message.
- - /help <module name>: PM's you info about that module.
- - /donate: information about how to donate!
- - /settings:
-   - in PM: will send you your settings for all supported modules.
-   - in a group: will redirect you to pm, with all that chat's settings.
-
-
-{}
-And the following:
+Look! 
+At The Following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-DONATE_STRING = """Heya, glad to hear you want to donate!
-ichan is hosted on one of Kaizoku's Servers and doesn't require any donations as of now but \
-You can donate to the original writer of the Base code, Paul
-There are two ways of supporting him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+DONATE_STRING = """Hey There! Wanna Donate Me? Amazing! But I Don't Wanna Accept. Instead Support [My Master](https://t.me/Unknown_Hacker_X) By Joining [Support Group](https://t.me/Sabrina_RoBotChat). """
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -147,7 +136,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
                 parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True)
     else:
-        update.effective_message.reply_text("Yo, whadup?")
+        update.effective_message.reply_text("Hey! I'm Alive. PM Me If You Have Any Questions On How To Use Me!")
 
 
 # for test purposes
