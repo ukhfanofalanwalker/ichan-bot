@@ -22,7 +22,7 @@ I am an Anime themed group management bot.
 
 You can find the list of available commands with /help.
 
-[ My girlfriend !](https://t.me/urmadbaby_hero) 
+[ My girlfriend !](https://t.me/Baby_xD)
 
 The support group chat is at @ProcessingBsdk
 """
@@ -34,7 +34,7 @@ I'm a part of Processing Bsdk.
 Have a look at the following for an idea of some of \
 the things I can help you with.
 
-I'm managed by [urmadbaby_hero](https://t.me/urmadbaby_hero)
+I'm managed by [Baby_xD](https://t.me/Baby_xD)
 no one goona help you!!!
 
 
